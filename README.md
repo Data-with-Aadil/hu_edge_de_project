@@ -8,8 +8,8 @@ In this tax processing management system project, i have generated large dataset
   
 These datasets are stored and processed using Azure Synapse Analytics and ADLS Gen-2, and the final results are stored in Microsoft SQL Server (on-premises). Continuous integration and deployment are managed through GitHub.
 
-In this project, we have generated and processed large datasets using the Faker library and PySpark. 
-## Tech Stack
+
+## Tech Stack Used
 
 - **Storage**: ADLS Gen-2
 - **Big Data Framework**: Spark Pools on Azure Synapse Analytics (PySpark)
